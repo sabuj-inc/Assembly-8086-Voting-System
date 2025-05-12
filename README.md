@@ -92,3 +92,20 @@ The **Assembly Voting System** is a compact yet powerful project that:
 - Demonstrates **real-world logic at the processor level**
 - Enhances understanding of **interrupts, I/O**, and **UI design in Assembly**
 - Prepares students for deeper studies in **embedded systems**, **OS design**, and **low-level programming**
+
+## 1.5.3 Slide
+![1](https://github.com/user-attachments/assets/a91c0114-87f9-4cc8-ad6b-7c16b064f5ff)
+
+![2](https://github.com/user-attachments/assets/66acc374-dea9-4e17-9267-ce90e58ffa9f)
+
+![3](https://github.com/user-attachments/assets/b69f5773-d247-4f02-a03f-a2bce25b6fd8)
+
+![4](https://github.com/user-attachments/assets/9eda6ca0-84b4-4674-b0e0-8565f2036cbd)
+
+![5](https://github.com/user-attachments/assets/27a9ace7-5bfb-4c75-80f3-28da18eea97b)
+
+![6](https://github.com/user-attachments/assets/e4fda4dd-dd41-4936-81dc-0ebcc19b34b5)
+
+![7](https://github.com/user-attachments/assets/14dc0bd4-3182-4f8d-9b38-cd02fea35eee)
+
+
